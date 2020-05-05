@@ -1,1 +1,1 @@
-# covid-graps
+# covid-graphs
